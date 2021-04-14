@@ -11,7 +11,8 @@ h1 {
 }
 
 a {
-    font: 16px aquamarine;
+    font: 16px verdana;
+    color: aquamarine
 }
 
 .headers {
